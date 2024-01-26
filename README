@@ -1,0 +1,6 @@
+please install two things globally:
+devbox global add sbt
+devbox global add stdenv.cc.cc.lib
+
+and then run from this directory:
+sbt compile

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "com.example";
+
+message IdName {
+  string id = 3;
+  string name = 2;
+}
+
